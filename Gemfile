@@ -64,3 +64,6 @@ group :development do
   # gem "spring"
 end
 
+gem 'sorcery', '0.14.0'
+gem 'pry-byebug'
+
